@@ -1,12 +1,11 @@
 # **Edify AI – Revolutionizing Education with AI and AR**  
-
 **Edify AI** is an AI-powered, end-to-end learning platform designed to transform education through cutting-edge technology. By combining AI, AR-powered virtual classrooms, personalized learning, and real-time event suggestions, we aim to empower students and professionals to achieve their fullest potential.
----
 
+--
 ## 🚀 Inspiration
 The idea for **Edify AI** was born from our struggles as students. We realized that challenges plague education: **overwhelming competition, lack of uniqueness**, and **mediocrity**. These factors have led to a 📉 **40% decline in personalized learning outcomes globally**. We knew it was time for a solution that **reignites passion 🔥, empowers individuality 🌟, and helps students survive and thrive in their educational journey**.
----
 
+---
 ## 🎯 What It Does
 **Edify AI** is a comprehensive platform that provides **end-to-end personalized learning solutions**, empowering students to achieve their **academic and career goals**. Key features include:
 - 📌 **Custom Learning Roadmaps** – Tailored to your unique needs and goals.
