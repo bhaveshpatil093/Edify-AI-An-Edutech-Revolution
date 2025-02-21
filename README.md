@@ -1,7 +1,6 @@
 # **Edify AI – Revolutionizing Education with AI and AR**  
 **Edify AI** is an AI-powered, end-to-end learning platform designed to transform education through cutting-edge technology. By combining AI, AR-powered virtual classrooms, personalized learning, and real-time event suggestions, we aim to empower students and professionals to achieve their fullest potential.
 
---
 ## 🚀 Inspiration
 The idea for **Edify AI** was born from our struggles as students. We realized that challenges plague education: **overwhelming competition, lack of uniqueness**, and **mediocrity**. These factors have led to a 📉 **40% decline in personalized learning outcomes globally**. We knew it was time for a solution that **reignites passion 🔥, empowers individuality 🌟, and helps students survive and thrive in their educational journey**.
 
@@ -56,8 +55,8 @@ The idea for **Edify AI** was born from our struggles as students. We realized t
 
 ## 🚀 Why Edify AI Leads the Future of Ed-Tech
 Edify AI combines **cutting-edge tech, personalized solutions**, and **real-world impact**. Our platform isn’t just another option—it’s **the future of learning**.
----
 
+---
 ## ⚡ Challenges We Faced
 - 🛑 **API Limitations**: The lack of readily available APIs for educational events pushed us to explore web scraping, which was a first for us.
 - 🐢 **Performance Issues**: Python’s speed limitations forced a complete migration to Next.js, increasing development time but ensuring smoother performance.
